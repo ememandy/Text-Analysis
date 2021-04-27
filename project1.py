@@ -1,6 +1,7 @@
 #Purpose of Program: Text analysis and the statistical distribution of words 
 #Author: Emem-Akeabasi Etop Andy
 #Date: 10th March, 2021
+#Copyright: (c)Emem Andy 2021
 
 import re
 
